@@ -1,3 +1,26 @@
+# Title
+
+## Section 1
+### Ingredients
+- 10g of this
+- 20g of that
+### Steps
+1. do this
+2. do that
+
+## Section 2
+### Ingredients
+- 30g of this
+- 40g of that
+### Steps
+1. do this
+2. do that
+
+
+
+
+Below are instructions and samples for formatting
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ah-jia/recipe-template/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
