@@ -2,7 +2,7 @@
 
 # Title
 
-![Sample photo](images/sample_photo.jpg)
+![Ready to serve](images/ready_to_serve.jpg)
 
 ## Section 1
 ### Ingredients
