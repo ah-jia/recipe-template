@@ -2,6 +2,8 @@
 
 # Title
 
+![Sample photo](images/sample_photo.jpg)
+
 ## Section 1
 ### Ingredients
 - 10g of this
