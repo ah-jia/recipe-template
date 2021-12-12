@@ -2,7 +2,7 @@
 
 # Title
 
-![Ready to serve](images/ready_to_serve.jpg)
+![Ready to serve photo](images/change this to filename in images folder.jpg)
 
 ## Section 1
 ### Ingredients
